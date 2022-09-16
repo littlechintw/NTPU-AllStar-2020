@@ -6,9 +6,9 @@
 所有資料已存在於 src/components/Global.vue，可於該處直接獲得。
 ```
 
-## Try it
+## Website
 
-[https://allstar.ntpu.org](https://allstar.ntpu.org)
+[https://ntpu-allstar.littlechin.tw/](https://ntpu-allstar.littlechin.tw/)
 
 ## Project setup
 ```
